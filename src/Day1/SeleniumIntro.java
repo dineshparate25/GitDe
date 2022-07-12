@@ -15,6 +15,7 @@ public class SeleniumIntro
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://afourtech.com/");
+		System.out.println("Code is uploaded");
 	}
 
 }
