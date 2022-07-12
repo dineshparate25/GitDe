@@ -16,6 +16,7 @@ public class SeleniumIntro
 		
 		driver.get("https://afourtech.com/");
 		System.out.println("Code is uploaded");
+		System.out.println("Code is uploaded");
 	}
 
 }
